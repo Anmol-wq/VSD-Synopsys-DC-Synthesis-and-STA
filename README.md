@@ -33,7 +33,11 @@
 
 # Day-1
 ## Introduction
+
+There are various aspects of synthesis which are needed to be taken care beyond getting successful compilation and this workshop ensured we will get to know that and more. We started off with an introduction to invoking DC shell and, then Design Vision for a GUI flavor. Since the shell environment employs TCL commands, we were given a primer on utilising it in general and especially in Synopsys environment with an introduction to Synopsys propietary file formats, data structures and TCL commands.  
 ## DC_shell
+![lab1_your_library](https://user-images.githubusercontent.com/73732594/135129831-4f2a1c15-881c-444d-b1b4-13e920fe3551.JPG)
+
 ## Tcl_scripting
 ## Design_Vision
 
