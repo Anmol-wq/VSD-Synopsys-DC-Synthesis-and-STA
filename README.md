@@ -404,6 +404,7 @@ In summary, logical synthesis is a combination of logic translation, mapping and
 ## Acknowledgements:
 
 * [Kunal Ghosh](https://github.com/kunalg123), Co-founder, VSD Corp. Pvt. Ltd.
+* Shon Taware, TA for the course.
 
 ## References:
 
